@@ -1,12 +1,12 @@
 # Ribbon — Business Registration Form
 
-A polished, multi-step sole proprietorship registration flow built with **React**, **TypeScript**, and **Tailwind CSS v4**. Features animated step transitions, touch-based form validation, a mock payment step, and a simulated server rejection/recovery flow.
+A multi-step sole proprietorship registration flow built with **React**, **TypeScript**, and **Tailwind CSS v4**. Features animated step transitions, touch-based form validation, a mock payment step, and a simulated server rejection/recovery flow.
 
 ---
 
 ## Features
 
-- **4-step wizard** — Business Info → Payment → Review → Confirmation
+- **4-steps** — Business Info → Payment → Review → Confirmation
 - **Inline validation** — errors appear only after a field is touched (blurred), not on load
 - **Animated transitions** — smooth slide animations between steps using Framer Motion
 - **Simulated rejection flow** — first submission always fails with an error, mimicking real async API behavior
@@ -35,7 +35,7 @@ A polished, multi-step sole proprietorship registration flow built with **React*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ribbon-onboarding-form.git
+   git clone https://github.com/msamin-25/ribbon-onboarding-form.git
    cd ribbon-onboarding-form
    ```
 
