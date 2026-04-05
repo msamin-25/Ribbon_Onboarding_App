@@ -31,3 +31,4 @@ The rejection scenario is triggered upon the first submission from the Review st
 - **Advanced Validation:** Add real-time email format validation and address autocomplete (e.g., Google Maps API).
 - **Accessibility:** Ensure all form fields have proper ARIA labels and keyboard navigation is seamless.
 - **Unit Testing:** Add tests for the validation logic and step transition rules.
+- **Real Business Name Conflict Detection:** Integrate with an actual business registry API (e.g., a government or provincial database) to check name availability in real time as the user types, rather than simulating a rejection on submit. This would surface conflicts early and could suggest alternative names based on real registered business data.
