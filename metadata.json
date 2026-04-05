@@ -1,0 +1,5 @@
+{
+  "name": "Ribbon Onboarding Form",
+  "description": "A multi-step onboarding form for small business registration in Canada, featuring validation, simulated payment, and a rejection handling flow.",
+  "requestFramePermissions": []
+}
